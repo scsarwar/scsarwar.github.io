@@ -129,7 +129,7 @@
         <span class="dot" onclick="currentSlide(3)"></span>
       </div>
 
-      <img src="weather.png" alt="weather"  class="center">
+      <img src="weather.PNG" alt="weather"  class="center">
 
 
       <p>
