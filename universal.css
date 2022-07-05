@@ -262,9 +262,9 @@ a:active {
 
 
 
-#form {
+.form {
     background-color: #FFF;
-    height: 600px;
+    height: auto;
     width: 600px;
     margin-right: auto;
     margin-left: auto;
@@ -280,7 +280,7 @@ label {
     font-size: 18px;
     color: #333;
     height: 20px;
-    width: 200px;
+    width: 420px;
     margin-top: 10px;
     margin-left: 10px;
     text-align: right;
@@ -475,3 +475,9 @@ ul.breadcrumb li a:hover {
 }
 
 /* Credit to https://epicbootstrap.com/snippets/footer-basic */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
